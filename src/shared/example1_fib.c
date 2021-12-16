@@ -1,7 +1,5 @@
 #include <example.h>
 
-char ch;
-
 long example1_fib(long x)
 {
     long t1 = 0;
@@ -26,4 +24,8 @@ long example1_fib(long x)
 
             return t3;
     }
+}
+
+void example1_dummy()
+{
 }
